@@ -74,8 +74,8 @@ console.log('===1===' + carr.dataStore);
 carr.dynamiSort();
 console.log('===2===' + carr.dataStore);
 
-carr.shellSort1(); // check
-console.log('===3===' + carr.dataStore);
+// carr.shellSort1(); // check
+// console.log('===3===' + carr.dataStore);
 
 
 
